@@ -1,0 +1,4 @@
+My Personal and Academic Goals for Next Year
+
+- Build and deploy full-stack projects.  
+- Learn system design and master Git/GitHub collaboration.
